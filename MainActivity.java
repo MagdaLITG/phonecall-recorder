@@ -1,5 +1,7 @@
 package com.example.android.phonecallrecorder;
 
+// ścieżka: C:\Users\Magda\AndroidStudioProjects\PhonecallRecorder\app\src\main\java\com\example\android\phonecallrecorder
+
 import android.app.Activity;
 import android.app.admin.DeviceAdminReceiver;
 import android.app.admin.DevicePolicyManager;
