@@ -1,0 +1,6 @@
+<--! sciezka, gdzie umiescilam plik: C:\Users\Magda\AndroidStudioProjects\PhonecallRecorder\app\src\main\res\drawable\xml -->
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android" >
+    <uses-policies>
+        <force-lock />
+    </uses-policies>
+</device-admin>
