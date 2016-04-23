@@ -14,12 +14,14 @@ import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.widget.Toast;
 import android.os.Handler;
+import android.app.Service;
 
 
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Timer;
+import java.util.Date;
 
 /**
  * Created by Magda on 2016-04-22.
